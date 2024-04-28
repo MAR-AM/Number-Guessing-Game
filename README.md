@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-This JavaScript program generates a random number between 1 and 10 and then prompts the user to guess that number. 
+This JavaScript program generates a random number between 1 and 10 and then prompts the user to guess that number. It provides feedback on whether the guessed number is higher or lower than the target number. The user can continue guessing until they correctly guess the number. After each guess, the program increments the number of tries. Once the user guesses the correct number, it displays a congratulatory message along with the target number and the number of attempts made. This interactive game offers an engaging way to practice guessing skills within a web-based environment.
